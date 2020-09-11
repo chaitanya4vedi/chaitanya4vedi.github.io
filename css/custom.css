@@ -1,0 +1,71 @@
+
+
+/* custom.css
+   Author: Chaitanya Chaturvedi
+*/
+
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+li a {
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+  background-color: #ebedef;
+}
+
+.jumbotron {
+  background-color: #bd8516;
+}
+
+header {
+  background-color: transparent !important;
+}
+
+.row-header {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.row-content {
+  margin: 0 auto;
+  padding: 2.5vw 0;
+}
+
+.padding {
+  padding: 2.5vw 0;
+}
+
+h1 {
+  font-family: Montserrat, sans-serif;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: #545454;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  color: #545454;
+}
+
+.list {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  color: #545454;
+  text-align: left;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+  font-size: larger;
+}
+
+.footer {
+  background-color: #ebedef;
+}
+

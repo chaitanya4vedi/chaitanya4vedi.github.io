@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    src: url(Oswald_500_normal.eot); /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUA.eot */
+    src: local('☺'),
+        url(Oswald_500_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUA.eot */
+        url(Oswald_500_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUQ.woff2 */
+        url(Oswald_500_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUI.woff */
+        url(Oswald_500_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUFoYgaQ.ttf */
+        url(Oswald_500_normal.svg#Oswald_500_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUM&skey=653237e53512d0de&v=v35#Oswald */
+}
+@font-face {
+    font-family: 'Rancho';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Rancho_400_normal.eot); /* http://fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_l.eot */
+    src: local('☺'),
+        url(Rancho_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_l.eot */
+        url(Rancho_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_h.woff2 */
+        url(Rancho_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_n.woff */
+        url(Rancho_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_kVUdI1w.ttf */
+        url(Rancho_400_normal.svg#Rancho_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=46kulbzmXjLaqZRVam_m&skey=fd44e98b6c2cd2e8&v=v11#Rancho */
+}
+@font-face {
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Caveat_700_normal.eot); /* http://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RM9ow.eot */
+    src: local('☺'),
+        url(Caveat_700_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RM9ow.eot */
+        url(Caveat_700_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RM9pw.woff2 */
+        url(Caveat_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RM9oQ.woff */
+        url(Caveat_700_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RM9oiTWNAo.ttf */
+        url(Caveat_700_normal.svg#Caveat_700_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RM9oA&skey=23f4c72b4f49a52d&v=v8#Caveat */
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Montserrat_300_normal.eot); /* http://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD7g8.eot */
+    src: local('☺'),
+        url(Montserrat_300_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD7g8.eot */
+        url(Montserrat_300_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD7gs.woff2 */
+        url(Montserrat_300_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD7g0.woff */
+        url(Montserrat_300_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD7g7J-d51.ttf */
+        url(Montserrat_300_normal.svg#Montserrat_300_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=JTURjIg1_i6t8kCHKm45_cJD7gw&skey=1ce67628c9aa416a&v=v14#Montserrat */
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    src: url(Oswald_500_normal.eot); /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUA.eot */
+    src: local('☺'),
+        url(Oswald_500_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUA.eot */
+        url(Oswald_500_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUQ.woff2 */
+        url(Oswald_500_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUI.woff */
+        url(Oswald_500_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUFoYgaQ.ttf */
+        url(Oswald_500_normal.svg#Oswald_500_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUM&skey=653237e53512d0de&v=v35#Oswald */
+}

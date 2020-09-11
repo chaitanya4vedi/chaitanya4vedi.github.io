@@ -1,0 +1,38 @@
+{
+  "name": "devfolio",
+  "version": "0.0.1",
+  "description": "This package contains information and dependencies of the portfolio project DevFolio",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Chaitanya Chaturvedi",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev && npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya4vedi/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chaitanya4vedi/Portfolio/issues"
+  },
+  "homepage": "https://github.com/chaitanya4vedi/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "get-google-fonts": "^1.2.2",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.16.1"
+  }
+}
