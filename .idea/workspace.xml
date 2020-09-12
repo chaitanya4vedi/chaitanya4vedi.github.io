@@ -11,7 +11,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71091f34-63cf-43b0-ade9-26719adf6b3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Alter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image-Fair-Corrected-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image-Fair-Corrected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image-Fair-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image-Fair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me-Image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/About-Me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Chaitanya Chaturvedi4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Fab at Fifty!.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Footer-Large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Footer-Small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter-1-Signature-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter-1-Signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter-2-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Header-Alter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Hero-1-Alter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Hero-1-Alter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Hero-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-2-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-3-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-3-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo-Brand-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/My-Work-Alter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/My-Work-Alter-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/My-Work-Alter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/My-Work-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/My-Work.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Say-Hello-Alter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Say-Hello-Corrected-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Say-Hello-Corrected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Say-Hello-Crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/Say-Hello.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/bermuda-268.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/gummy-desktop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/gummy-imac.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-android-os-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-character-animator-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-debian-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-github-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-google-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-human-head.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-iron-man-gradient.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-iron-man.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-linux-server-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-male-user-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-neo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-twitter-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-user-male.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-visual-studio-code-2019-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/icons8-youtube-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Scrap/user-male-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iconified/iconifier-readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/icons8-character-animator-128.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/icons8-character-animator-256.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/icons8-character-animator-512.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/icons8-character-animator-64.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/icons8-character-animator-96.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +153,7 @@
       <workItem from="1599712244285" duration="24026000" />
       <workItem from="1599747392312" duration="7204000" />
       <workItem from="1599799890706" duration="20219000" />
-      <workItem from="1599882953915" duration="4337000" />
+      <workItem from="1599882953915" duration="6291000" />
     </task>
     <servers />
   </component>
