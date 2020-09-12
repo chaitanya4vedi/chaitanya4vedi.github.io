@@ -10,15 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71091f34-63cf-43b0-ade9-26719adf6b3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="71091f34-63cf-43b0-ade9-26719adf6b3d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +67,7 @@
       <workItem from="1599747392312" duration="7204000" />
       <workItem from="1599799890706" duration="20219000" />
       <workItem from="1599882953915" duration="10996000" />
-      <workItem from="1599917687141" duration="940000" />
+      <workItem from="1599917687141" duration="1312000" />
     </task>
     <servers />
   </component>
@@ -111,14 +103,22 @@
       <screen x="68" y="28" width="1298" height="740" />
     </state>
     <state width="1246" height="173" key="GridCell.Tab.0.right/68.28.1298.740@68.28.1298.740" timestamp="1599627074057" />
+    <state x="188" y="85" width="1038" height="618" key="MergeDialog" timestamp="1599918866113">
+      <screen x="68" y="28" width="1298" height="740" />
+    </state>
+    <state x="188" y="85" width="1038" height="618" key="MergeDialog/68.28.1298.740@68.28.1298.740" timestamp="1599918866113" />
+    <state x="353" y="148" width="718" height="496" key="MultipleFileMergeDialog" timestamp="1599918866116">
+      <screen x="68" y="28" width="1298" height="740" />
+    </state>
+    <state x="353" y="148" width="718" height="496" key="MultipleFileMergeDialog/68.28.1298.740@68.28.1298.740" timestamp="1599918866116" />
     <state x="198" y="33" key="SettingsEditor" timestamp="1599628027941">
       <screen x="68" y="28" width="1298" height="740" />
     </state>
     <state x="198" y="33" key="SettingsEditor/68.28.1298.740@68.28.1298.740" timestamp="1599628027941" />
-    <state x="312" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1599884300162">
+    <state x="312" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1599919001196">
       <screen x="68" y="28" width="1298" height="740" />
     </state>
-    <state x="312" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2/68.28.1298.740@68.28.1298.740" timestamp="1599884300162" />
+    <state x="312" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2/68.28.1298.740@68.28.1298.740" timestamp="1599919001196" />
     <state x="380" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599633877364">
       <screen x="68" y="28" width="1298" height="740" />
     </state>
