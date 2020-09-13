@@ -25,7 +25,7 @@
   <!-- Local CSS Link -->
   <link rel="stylesheet" href="css_1/normalize.css">
   <link rel="stylesheet" href="css_1/main.css">
-  <link rel="stylesheet"href="css_1/main1.css">
+  <link rel="stylesheet" href="css_1/main1.css">
   <!-- Google Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
   <link href='https://fonts.googleapis.com/css?family=Ribeye' rel='stylesheet'>
@@ -42,7 +42,8 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand mr-auto" href="#"><img src="https://img.icons8.com/color/48/000000/restaurant.png"height="30" width="41" alt="logo"/></a>
+    <a class="navbar-brand mr-auto" href="#"> <img src="https://img.icons8.com/color/48/000000/restaurant.png" height="30" width="41" alt="logo"/>
+    </a>
     <div class="collapse navbar-collapse" id="Navbar">
       <ul class="navbar-nav">
         <li class="nav-item active"><a class="nav-link" href="./index.html"><span class="fa fa-home">Home</span></a></li>
@@ -98,7 +99,9 @@
             <input type="date" class="form-control" id="day" name="date" placeholder="Date...">
           </div>
           <div class="col-5 col-md-3">
-            <input type="time" class="form-control" id="clock" name="time" placeholder="Time...">
+            <label for="clock">
+              <input type="time" class="form-control" id="clock" name="time" placeholder="Time...">
+            </label>
           </div>
         </div>
       </div>
@@ -111,7 +114,7 @@
 </div>
 <!-- Login Modal here -->
 <div id="loginModal" class="modal fade" role="dialog">
-  <div class="modal-dialog modal-lg" role="content">
+  <div class="modal-dialog modal-lg" role="dialog">
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
@@ -131,8 +134,8 @@
             </div>
             <div class="col-sm-auto">
               <div class="form-check">
-                <input class="form-check-input" type="checkbox">
-                <label class="form-check-label"> Remember me
+                <label>
+                  <input class="form-check-input" type="checkbox">Remember me
                 </label>
               </div>
             </div>
@@ -157,7 +160,7 @@
       </div>
       <div class="col-12 col-sm-5 align-self-center">
         <img src="https://img.icons8.com/color/280/000000/restaurant-table.png" class="img-fluid" alt="logo"/>
-        <a class="btn btn-warning" class="align-self-center" id="reserveTable"
+        <a class="btn btn-warning align-self-center" id="reserveTable"
            role="button">Reserve
           Table</a>
       </div>
