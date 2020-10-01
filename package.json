@@ -6,14 +6,10 @@
   "license": "ISC",
   "author": "Chaitanya Chaturvedi",
   "scripts": {
-    "build": "parcel build index.html",
-    "dev": "parcel index.html --open",
-    "start": "npm run build && npm run dev && npm run lite",
+    "dev": "npm run lite",
+    "start": "npm run dev",
     "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
   },
   "main": "index.html",
   "directories": {
