@@ -39,10 +39,6 @@ header {
   padding: 2.5vw 0;
 }
 
-h1 {
-  font-family: Montserrat, sans-serif;
-}
-
 h2 {
   font-family: "Oswald", sans-serif;
   color: #545454;
@@ -54,14 +50,12 @@ h3 {
 }
 
 .list {
-  font-family: "Montserrat", sans-serif;
   font-size: 1em;
   color: #545454;
   text-align: left;
 }
 
 p {
-  font-family: Montserrat, sans-serif;
   font-size: larger;
 }
 
