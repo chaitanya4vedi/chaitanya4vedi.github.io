@@ -9,20 +9,16 @@ body {
   padding: 0;
 }
 
-li a {
-  font-family: Montserrat, sans-serif;
-}
-
 .navbar {
-  background-color: #ffffff;
+  background-color: #8EE4AF;
+  font-family: 'Karla', sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-.jumbotron {
-  background-color: #bd8516;
-}
-
-header {
-  background-color: transparent !important;
+.navbar a {
+  color: #05386B;
 }
 
 .row-header {
@@ -56,42 +52,12 @@ h3 {
 }
 
 p {
+  font-family: 'Karla', sans-serif;
   font-size: larger;
 }
 
 .footer {
-  background-color: #ebedef;
-}
-
-.footer {
-  color: black;
-  background: #2BC0E4;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2BC0E4);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2BC0E4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background-size: 400% 400%;
-  animation: gradient 7s ease infinite;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  background-color: #8EE4AF;
+  color: #05386B;
+  font-family: 'Karla', sans-serif;
 }
